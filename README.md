@@ -19,6 +19,7 @@ This project is a **Restaurant Recommendation System** built using **Machine Lea
 - **Scikit-Learn**
 - **Matplotlib**
 - **Seaborn**
+- **Google Colab**
 
 ## Steps Performed
 1. **Data Cleaning:**
@@ -42,16 +43,10 @@ This project is a **Restaurant Recommendation System** built using **Machine Lea
     ```bash
     cd restaurant-recommendation-system
     ```
-3. Install the required libraries:
-    ```bash
-    pip install -r requirements.txt
-    ```
+3. Open the project using Google Colab by uploading the `.ipynb` file.
 
 ## Usage
-1. Run the Python script:
-    ```bash
-    python app.py
-    ```
+1. Run the notebook cells step-by-step in **Google Colab**.
 2. Enter your preferred restaurant or cuisine.
 3. View the top 10 recommended restaurants with their ratings and cost.
 
@@ -60,11 +55,9 @@ This project is a **Restaurant Recommendation System** built using **Machine Lea
 📦 Restaurant-Recommendation-System
 ├── data
 │   └── zomato.csv
-├── app.py
-├── model.py
+├── restaurant_recommendation.ipynb
 ├── requirements.txt
 ├── README.md
-└── utils.py
 ```
 
 ## Conclusion
