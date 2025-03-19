@@ -62,10 +62,3 @@ This project is a **Restaurant Recommendation System** built using **Machine Lea
 
 ## Conclusion
 This project is a simple and efficient restaurant recommendation system using machine learning. It offers personalized restaurant suggestions based on user preferences using Cosine Similarity.
-
-## Contributing
-Contributions are welcome! Feel free to fork this repository and submit a pull request.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
