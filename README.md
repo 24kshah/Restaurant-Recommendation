@@ -37,7 +37,7 @@ This project is a **Restaurant Recommendation System** built using **Machine Lea
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your_username/restaurant-recommendation-system.git
+    https://github.com/24kshah/Restaurant-Recommendation.git
     ```
 2. Navigate to the project directory:
     ```bash
